@@ -1,0 +1,8 @@
+comandos GIT
+
+PWD - ver la ubicacion actual
+git init -> inicializa git en la ubicacion de la solución
+git status -> muesta el stado 
+git add -A -> Agregar los archivos modificados
+git commit -m "Primer commit" -> Realiza commit espeficando el nombre del commit
+git push origin master
