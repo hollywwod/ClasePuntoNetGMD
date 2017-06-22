@@ -9,6 +9,8 @@ namespace Clase1.Models
     public class Person
     {
         public string Name { get; set; }
-        public string Birth { get; set; }
+        public DateTime Birth { get; set; }
+        
+
     }
 }
